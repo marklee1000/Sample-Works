@@ -1,1 +1,1 @@
-Customer churn prediction with machin learning models
+Customer churn prediction with machine learning models
